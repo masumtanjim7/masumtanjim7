@@ -5,7 +5,7 @@
 
 I am a **Computer Science & Engineering graduate** and a dedicated **Problem Solver** with a strong track record on **Codeforces** and **LeetCode**. My expertise spans across **Full-Stack Development (Flutter & Laravel)** and **Machine Learning**, where I have developed **17+ individual projects**.
 
-I specialize in building **intelligent systems**, having engineered **Hybrid Machine Learning models** and curated **custom datasets** for complex research. My experience includes working with **Google Earth Engine (GEE)** and integrating **REST APIs** for environmental monitoring—such as an **Air Quality Index (AQI)** project. From high-level **AI implementation** to system administration with **Docker** and **Ubuntu**, I bridge the gap between **data science** and **production-ready software**.
+I specialize in building **intelligent systems**, having engineered **Hybrid Machine Learning models** and curated **custom datasets** for complex research. My experience includes working with **Google Earth Engine (GEE)** and integrating **REST APIs** for environmental monitoring such as an **Air Quality Index (AQI)** project. From high-level **AI implementation** to system administration with **Docker** and **Ubuntu**, I bridge the gap between **data science** and **production-ready software**.
 
 
 
