@@ -1,18 +1,12 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f172a,100:1e3a8a&text=Md.%20Masum%20Billah&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Executive%20Engineer%20(AI%20%26%20Mobile)%20%7C%20Founder%20%40%20SpideyTech%20%7C%20Published%20Researcher&descSize=16&descAlignY=60"/>
-</div>
-
-### ⚡ About Me
-
-I am a **Computer Science & Engineering graduate**, **Executive Engineer (AI & Mobile Apps)**, and Founder of **SpideyTech**. With a strong competitive programming foundation on **Codeforces** and **LeetCode**, I architect production-ready applications and intelligent systems across **17+ flagship projects**.
+I am a **Computer Science & Engineering graduate**, **Executive Engineer (AI & Mobile Apps)**, and Founder of **SpideyTech**. With a strong competitive programming foundation on **Codeforces** and **LeetCode**, I architect production-ready applications and intelligent systems across **30+ flagship projects**.
 
 - 🔭 **Engineering:** Building scalable mobile & web ecosystems using **Flutter, Django REST Framework, FastAPI, Laravel, and Next.js**.
 - 🧠 **AI & Research:** Published author in **Q2 journals** specializing in **Hybrid Machine Learning & Deep Learning (YOLOv8, ResNet50, RT-DETR)**, custom dataset curation, XAI (**SHAP, LIME**), and **Google Earth Engine (GEE)**.
 - ⚙️ **Infrastructure:** Bridging data science and production software with **Docker, PostgreSQL, Redis, Django Channels, n8n, and Ubuntu**.
 
----
 
-### 🛠️ Tech Stack & Tooling
+
+
 
 **Languages & Core**  
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -47,20 +41,16 @@ I am a **Computer Science & Engineering graduate**, **Executive Engineer (AI & M
 **Databases, Cloud & DevOps**  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
----
 
-### 📊 GitHub Analytics
+
 
 <p align="left">
   <img height="138" src="https://github-readme-stats.vercel.app/api?username=masumtanjim7&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
