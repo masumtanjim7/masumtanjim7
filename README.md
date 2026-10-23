@@ -50,7 +50,11 @@ I am a **Computer Science & Engineering graduate**, **Executive Engineer (AI & M
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
-
+<p align="left">
+  <img width="32.5%" src="https://github-readme-stats.vercel.app/api?username=masumtanjim7&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  <img width="32.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masumtanjim7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+  <img width="32.5%" src="https://streak-stats.demolab.com/?user=masumtanjim7&theme=dark&hide_border=false" alt="Streak Stats"/>
+</p>
 
 <p align="left">
   <img height="138" src="https://github-readme-stats.vercel.app/api?username=masumtanjim7&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
