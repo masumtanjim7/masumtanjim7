@@ -5,9 +5,6 @@ I am a **Computer Science & Engineering graduate**, **Executive Engineer (AI & M
 - ⚙️ **Infrastructure:** Bridging data science and production software with **Docker, PostgreSQL, Redis, Django Channels, n8n, and Ubuntu**.
 
 
-
-
-
 **Languages & Core**  
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
