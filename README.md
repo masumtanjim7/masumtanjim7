@@ -25,7 +25,6 @@ I am a **Computer Science & Engineering graduate**, **Executive Engineer (AI & M
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-
 **AI, Machine Learning & Data Science**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -45,7 +44,6 @@ I am a **Computer Science & Engineering graduate**, **Executive Engineer (AI & M
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
 
 <p align="left">
   <img width="32.5%" src="https://github-readme-stats.vercel.app/api?username=masumtanjim7&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
