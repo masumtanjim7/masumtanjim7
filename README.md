@@ -1,7 +1,7 @@
 I am a **Computer Science & Engineering graduate**, **Executive Engineer (AI & Mobile Apps)**, and Founder of **SpideyTech**. With a strong competitive programming foundation on **Codeforces** and **LeetCode**, I architect production-ready applications and intelligent systems across **30+ flagship projects**.
 
 - 🔭 **Engineering:** Building scalable mobile & web ecosystems using **Flutter, Django REST Framework, FastAPI, Laravel, and Next.js**.
-- 🧠 **AI & Research:** Published author in **Q2 journals** specializing in **Hybrid Machine Learning & Deep Learning (YOLOv8, ResNet50, RT-DETR)**, custom dataset curation, XAI (**SHAP, LIME**), and **Google Earth Engine (GEE)**.
+- 🧠 **AI & Research:** Published author in **Q2 journals** specializing in **Hybrid Machine Learning & Deep Learning (YOLOv8, ResNet50, RT-DETR)**, custom dataset curation, AQI, XAI (**SHAP, LIME**), and **Google Earth Engine (GEE)**.
 - ⚙️ **Infrastructure:** Bridging data science and production software with **Docker, PostgreSQL, Redis, Django Channels, and n8n**.
 
 
