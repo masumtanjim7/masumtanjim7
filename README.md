@@ -2,7 +2,7 @@ I am a **Computer Science & Engineering graduate**, **Executive Engineer (AI & M
 
 -  **Engineering:** Building scalable mobile & web ecosystems using **Flutter, Django REST Framework, FastAPI, Laravel, and Next.js**.
 -  **AI & Research:** Published author in **Q2 journals** specializing in **Hybrid Machine Learning & Deep Learning (YOLOv8, ResNet50, RT-DETR)**, custom dataset curation, AQI, XAI (**SHAP, LIME**), and **Google Earth Engine (GEE)**.
-- ⚙️ **Infrastructure:** Bridging data science and production software with **Docker, PostgreSQL, Redis, Django Channels, and n8n**.
+-  **Infrastructure:** Bridging data science and production software with **Docker, PostgreSQL, Redis, Django Channels, and n8n**.
 
 
 **Languages & Core**  
